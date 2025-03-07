@@ -1,5 +1,9 @@
 # **Benicarlo React App Activity - Timeless Journal**  
 
+## **📥 Download**
+
+🔗 **Download RAR File:** [Click here to download](https://drive.google.com/file/d/1S8_w5Mvo55i3cBtg_OS0Fv8ZKjMuw1Hx/view?usp=sharing)
+
 A simple and elegant journal application with features to **create, edit, and delete journal entries**.
 
 ## **📸 Screenshots**

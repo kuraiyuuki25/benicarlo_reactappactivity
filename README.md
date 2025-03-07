@@ -53,5 +53,3 @@ A simple and elegant journal application with features to **create, edit, and de
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License**.

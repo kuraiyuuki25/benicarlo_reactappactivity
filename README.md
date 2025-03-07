@@ -28,6 +28,12 @@ A simple and elegant journal application with features to **create, edit, and de
 
 ---
 
+## **🎥 Demo Video**
+
+[![Demo Video](https://github.com/user-attachments/assets/918c882a-4384-416c-9bb7-ec5034d86da6)](https://github.com/user-attachments/assets/918c882a-4384-416c-9bb7-ec5034d86da6)
+
+---
+
 ## **🚀 Features**
 ✅ **Create** personal journal entries  
 ✅ **Edit** and update existing journal entries  
@@ -52,4 +58,3 @@ A simple and elegant journal application with features to **create, edit, and de
    ```
 
 ---
-
